@@ -1,0 +1,4 @@
+baseURL: http://example.org/
+languageCode: jp
+title: kame blog
+theme: 'PaperMod'
