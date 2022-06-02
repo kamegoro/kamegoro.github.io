@@ -1,4 +1,5 @@
-baseURL: http://example.org/
+baseURL: https://kamegoro.github.io
+publishDir: docs
 languageCode: jp
 title: kame blog
 theme: 'PaperMod'
